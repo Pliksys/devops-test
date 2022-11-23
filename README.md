@@ -29,5 +29,22 @@ vendor\bin\phpunit
 
 ## Reto
 
+### Reto 1. Genera un circuito de CI para la aplicación
 
+Debes de usar cualqier motor de CI que conozcas (Github actions por ejemplo) y generar un ciclo de CI coherente
 
+### Reto 2. Dockeriza la aplicación
+
+Crea una imagen de la aplicación y lanza el contenedor probando que funciona como en local
+
+### Reto 3. Dockeriza la Base de datos
+
+En la aplicación la Base de datos que se usa es SqlLite, en este reto buscamos que la cambies por un Base de datos MySql que esté dockerizada
+
+### Reto 4. Orquesta todo con docker-compose
+
+En este reto debes de orquesta la app y su DB a través de un simple docker-compose up
+
+### Reto 5. ¿Cómo desplegarías la aplicación?
+
+Dejamos que vuele tu imaginación para que nos digas cómo desplegarias esta aplicación en tu proveedor cloud favorito
