@@ -4,7 +4,7 @@
 
 Este repositorio tiene una API desarrollada en PHP con el framework de Laravel.
 
-Para que funcione en local necesitas tener instalado PHP 7.4 o superior y composer 2.X
+Si quieres probarlo en local (no es necesario para la prueba) necesitas tener instalado PHP 7.4 o superior y composer 2.X
 
 Para poder lanzar la aplicación necesitas ejecutar los siguientes comandos:
 
@@ -28,6 +28,8 @@ vendor\bin\phpunit
 ```
 
 ## Reto
+
+Debes de tener cuenta en GitHub, hacer un fork del repositorio y tener instalado docker en tu máquina local
 
 ### Reto 1. Genera un circuito de CI para la aplicación
 
